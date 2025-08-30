@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack --mode development",
-    "test": "echo 'No tests specified'" // Placeholder for future test command
+    "test": "echo 'No tests specified. Please add tests in the future.'" // Placeholder for future test command
   },
   "keywords": ["ui", "library", "minimalist", "components", "web"],
   "author": "Your Name",
